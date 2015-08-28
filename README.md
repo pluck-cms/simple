@@ -20,7 +20,8 @@ function simple_info() {
         'website'       => 'http://twitter.com/grwebguy',
         'compatibility' => '4.7'
     );
-    ```
+}
+```
 
 File 2 is simple.site.php contains the code
 
