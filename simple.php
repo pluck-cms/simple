@@ -9,4 +9,5 @@
         'website'       => 'http://twitter.com/grwebguy',
         'compatibility' => '4.7'
     );
+    return $module_info;
  }
